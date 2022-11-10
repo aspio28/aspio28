@@ -18,6 +18,21 @@
 <p align="left">
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="C++" /></a>
 </p>
+
+### Courses
+
+- Algebra I
+- Algebra II
+- Mathematical Analysis I
+- Mathematical Analysis II
+- Mathematical Logic
+
+### Socials
+
+<p align="left">
+<a href="https://www.github.com/aspio28" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/aspio_28" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 <!---
 aspio28/aspio28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
