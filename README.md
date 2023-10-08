@@ -1,7 +1,7 @@
 # 👋 Hello, everyone
 - My name is Jorge Alberto Aspiolea Gonzalez
 - 📚 I'm a Computer Science student at the University of Havana
-- 🇨🇺 I live in Cuba
+- I live in Cuba
 - 🏀 I love NBA
 
 ### Skills
